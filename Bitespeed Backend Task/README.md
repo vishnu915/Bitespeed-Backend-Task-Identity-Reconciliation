@@ -9,7 +9,7 @@
 ### Setup
 - Clone Project : 
 ```
-git clone https://github.com/ppreetii/BiteSpeed_Interview_Task.git
+git clone https://github.com/vishnu915/Bitespeed-Backend-Task-Identity-Reconciliation.git
 ```
 - Install dependencies:
 ```
